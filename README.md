@@ -2,7 +2,7 @@
 Step-by-step Data Analytics learning journey using Excel, SQL, Power BI, and Python with practice files and projects.
 # Data Analyst Learning Journey 🚀
 
-## Day 1 — Excel Basics
+##Week 1 Excel Basics
 
 Today I learned the following Excel concepts:
 
